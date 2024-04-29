@@ -58,5 +58,5 @@ def make_prediction(features):
     return prediction[0]
 
 if __name__ == '__main__':
-   # main()
-   st.write('Hello world')
+   main()
+
